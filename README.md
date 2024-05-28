@@ -1,0 +1,1 @@
+This open source dataset contains 13 clinicopathologic features with the aim of predicting the recurrence of well-differentiated thyroid cancer. Data was collected within a span of 15 years, with each patient being monitored for a minimum of 10 years.
